@@ -20,3 +20,6 @@ If you are developing a production application, we recommend using TypeScript wi
 - React Login Form
 - Cypress E2E Tests
 - Email & password validations
+
+## Project Status
+- All E2E tests are passing
