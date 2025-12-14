@@ -23,3 +23,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Project Status
 - All E2E tests are passing
+
+- Project setup, validations and E2E tests completed
